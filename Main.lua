@@ -1,4 +1,4 @@
-local executed
+
 local any = "Any.lua"
 local main = {
     ["Games"] = "https://raw.githubusercontent.com/FemIsCool/Sigma/main/Games/",
